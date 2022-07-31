@@ -8,4 +8,5 @@ console.log(tree)
   <main>
     <ContentDoc />
   </main>
+  <pre>{{ tree }}</pre>
 </template>
